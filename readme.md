@@ -13,7 +13,7 @@ Automatic build and tested via [travis].
 [travis]: https://travis-ci.org/silvio/matrix-riot-docker
 
 
-# Start
+# Start the Setup
 
 For starting you need a mapping for the `/data`-directory with
 a `riot.im.conf` file.
@@ -40,4 +40,3 @@ the service then.
 # build specific arguments
 
 * `BV_VEC`: riot.im version, optional, defaults to `master`
-
